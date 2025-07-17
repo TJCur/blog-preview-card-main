@@ -53,6 +53,13 @@ body {
     font-size: 1.5em;
 }
 
+.card > h1:hover {
+    background-color: var(--Yellow);
+    border-radius: 0.7ch;
+    margin: -0.4ch -0.7ch;
+    padding: 0.4ch 0.7ch;
+}
+
 .card > p {
     color: var(--Gray-500);
     line-height: 150%;
